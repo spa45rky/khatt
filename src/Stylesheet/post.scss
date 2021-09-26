@@ -1,0 +1,27 @@
+.post{
+    width: 100%;
+    background-color: white;
+    border-radius: 12px;
+    margin: 3% 0%;
+
+
+    .post-user{
+        margin: 3%;
+        display: flex;
+        img{
+            width: 42px;
+            height: 42px;
+            border-radius: 50%;
+        }
+    
+        h1{
+            margin: 2%;
+            font-size: 20px;
+        }
+    }
+
+    p{
+        margin: 3% 5%;
+        font-size: 18px;
+    }
+}
